@@ -1,0 +1,12 @@
+customer-churn-analysis-python/
+│
+├── data/
+│   └── customer_data.csv
+│
+├── notebooks/
+│   └── churn_analysis.ipynb
+│
+├── visuals/
+│   └── churn_trends.png
+│
+└── README.md
